@@ -69,3 +69,19 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+
+.row {
+  border-radius: 5px;
+  border-color: black;
+}
+
+.col-2 {
+  border-radius: 5px;
+  border-color: darkgray;
+}
+
+.col-8 {
+  border: 25px;
+  border-color: black;
+}
+
