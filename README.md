@@ -1,1 +1,2 @@
 # Work Day Scheduler Starter Code
+In the htm file I created classes in the div to handle each hours scheduled tasks. I also created a function to check the times and see whether the hours are that of past, present, or future. In the style, I added the classes that I created in the html files. Lastly, in the script file, I created my variables for the functions in the Html file and set created a way to save input to the local storage.
